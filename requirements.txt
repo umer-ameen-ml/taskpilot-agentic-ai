@@ -1,0 +1,17 @@
+# Core
+langgraph
+langchain
+langchain-core
+langchain-openai
+langchain-google-genai
+pydantic
+requests
+httpx
+python-dotenv
+
+# Notebook
+ipython
+notebook
+
+# Tests (offline)
+nbformat
